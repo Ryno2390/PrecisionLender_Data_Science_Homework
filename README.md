@@ -4,8 +4,7 @@
 
 Source code: PrecisionLender Project.ipynb
 
-Data: FFIEC CDR Call Subset of Schedules 2018(1 of 2).txt
-      FFIEC CDR Call Subset of Schedules 2018(2 of 2).txt
+Data: FFIEC CDR Call Subset of Schedules 2018(1 of 2).txt & FFIEC CDR Call Subset of Schedules 2018(2 of 2).txt
 
 Prompt: DataScienceHomework.pdf
 
